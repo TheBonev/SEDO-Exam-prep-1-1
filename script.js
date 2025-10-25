@@ -18,3 +18,17 @@ document.getElementById('btn-subtract').addEventListener('click', () => {
   const b = Number(document.getElementById('b').value);
   document.getElementById('result').textContent = subtract(a, b);
 });
+
+//Change 3
+
+
+
+
+//change 4
+
+
+//change 6
+
+
+
+//change 5
